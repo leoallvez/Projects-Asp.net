@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Web
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApp-001", "WebApp-001.csproj", "{9314DC11-E24E-4262-95AB-2B6158E4D22D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9314DC11-E24E-4262-95AB-2B6158E4D22D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9314DC11-E24E-4262-95AB-2B6158E4D22D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9314DC11-E24E-4262-95AB-2B6158E4D22D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9314DC11-E24E-4262-95AB-2B6158E4D22D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

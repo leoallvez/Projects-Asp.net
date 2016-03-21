@@ -1,0 +1,10 @@
+c:\users\leonardo\documents\visual studio 2012\Projects\WebApp-003-calculadora\bin\WebApp-003-calculadora.dll
+c:\users\leonardo\documents\visual studio 2012\Projects\WebApp-003-calculadora\bin\WebApp-003-calculadora.pdb
+c:\users\leonardo\documents\visual studio 2012\Projects\WebApp-003-calculadora\obj\Debug\WebApp-003-calculadora.csprojResolveAssemblyReference.cache
+c:\users\leonardo\documents\visual studio 2012\Projects\WebApp-003-calculadora\obj\Debug\WebApp-003-calculadora.dll
+c:\users\leonardo\documents\visual studio 2012\Projects\WebApp-003-calculadora\obj\Debug\WebApp-003-calculadora.pdb
+C:\Users\Leonardo\Documents\Visual Studio 2012\Projects\asp.net-web-application\WebApp-003-calculadora\bin\WebApp-003-calculadora.dll
+C:\Users\Leonardo\Documents\Visual Studio 2012\Projects\asp.net-web-application\WebApp-003-calculadora\bin\WebApp-003-calculadora.pdb
+C:\Users\Leonardo\Documents\Visual Studio 2012\Projects\asp.net-web-application\WebApp-003-calculadora\obj\Debug\WebApp-003-calculadora.csprojResolveAssemblyReference.cache
+C:\Users\Leonardo\Documents\Visual Studio 2012\Projects\asp.net-web-application\WebApp-003-calculadora\obj\Debug\WebApp-003-calculadora.dll
+C:\Users\Leonardo\Documents\Visual Studio 2012\Projects\asp.net-web-application\WebApp-003-calculadora\obj\Debug\WebApp-003-calculadora.pdb

@@ -1,0 +1,5 @@
+c:\users\leonardo\documents\visual studio 2012\Projects\WebApp-002-produto\bin\WebApp-002-produto.dll
+c:\users\leonardo\documents\visual studio 2012\Projects\WebApp-002-produto\bin\WebApp-002-produto.pdb
+c:\users\leonardo\documents\visual studio 2012\Projects\WebApp-002-produto\obj\Debug\WebApp-002-produto.csprojResolveAssemblyReference.cache
+c:\users\leonardo\documents\visual studio 2012\Projects\WebApp-002-produto\obj\Debug\WebApp-002-produto.dll
+c:\users\leonardo\documents\visual studio 2012\Projects\WebApp-002-produto\obj\Debug\WebApp-002-produto.pdb
