@@ -1,0 +1,71 @@
+﻿/*framework  de css Eva feita por Léo Alves
+<link rel="stylesheet" href="StyleSheet1.css"/>
+*/
+@charset "UTF-8";
+
+*{
+	border-radius: 3px;
+	font-family: Verdana;
+
+}
+
+body{
+	background: #2F4F4F;
+}
+
+form{
+	background-image: linear-gradient(to bottom,#B22222,#800000);
+	box-shadow: 2px 2px 3px rgba(0,0,0,0.5);
+
+	margin: 8% auto auto;
+	padding: 2%;
+	width: 300px;
+	transition: all 1s;
+}
+
+label,span{
+	color:#FFF;
+	padding: 2%;
+	margin: 1%;
+}
+
+input{
+	padding: 2%;
+}
+
+input[type=text]{
+    color:#800000;
+	border-radius: 5px;
+	border: 1px solid #FFF;
+	margin: 1%;
+	transition: all 1s;
+}
+
+input[type=text]:focus{
+	background: #800000;
+	outline: 2px solid #FFF;
+	color: #FFF;
+}
+
+input[type=submit], input[type=reset]{
+	background: #800000;
+	border: 1px solid #B22222;
+	color: #FFF;
+	margin: 1%;
+	transition: all 0.5s;
+}
+
+input[type=submit]:hover, input[type=reset]:hover{
+	background: #B22222;		
+}
+
+input[type=submit]:active, input[type=reset]:active{
+	font-size: 1.1em;
+}
+
+th {
+    color: #FFF;
+}
+
+
+

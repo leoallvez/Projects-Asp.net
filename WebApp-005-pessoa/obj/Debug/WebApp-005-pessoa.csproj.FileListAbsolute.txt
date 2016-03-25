@@ -1,0 +1,5 @@
+C:\Users\Leonardo\Documents\Visual Studio 2012\Projects\WebApp-005-pessoa\bin\WebApp-005-pessoa.dll
+C:\Users\Leonardo\Documents\Visual Studio 2012\Projects\WebApp-005-pessoa\bin\WebApp-005-pessoa.pdb
+C:\Users\Leonardo\Documents\Visual Studio 2012\Projects\WebApp-005-pessoa\obj\Debug\WebApp-005-pessoa.csprojResolveAssemblyReference.cache
+C:\Users\Leonardo\Documents\Visual Studio 2012\Projects\WebApp-005-pessoa\obj\Debug\WebApp-005-pessoa.dll
+C:\Users\Leonardo\Documents\Visual Studio 2012\Projects\WebApp-005-pessoa\obj\Debug\WebApp-005-pessoa.pdb

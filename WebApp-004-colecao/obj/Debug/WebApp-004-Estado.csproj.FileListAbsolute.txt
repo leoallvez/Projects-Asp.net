@@ -1,0 +1,4 @@
+c:\users\leonardo\documents\visual studio 2012\Projects\WebApp-004-colecao\bin\WebApp-004-colecao.dll
+c:\users\leonardo\documents\visual studio 2012\Projects\WebApp-004-colecao\bin\WebApp-004-colecao.pdb
+c:\users\leonardo\documents\visual studio 2012\Projects\WebApp-004-colecao\obj\Debug\WebApp-004-colecao.dll
+c:\users\leonardo\documents\visual studio 2012\Projects\WebApp-004-colecao\obj\Debug\WebApp-004-colecao.pdb
